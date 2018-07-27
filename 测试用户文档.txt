@@ -1,0 +1,17 @@
+website url : 
+
+http://bossapp01.chinanorth.cloudapp.chinacloudapi.cn:9000/
+
+
+admin account:
+
+user : yangyifu
+pwd : 1qazZAQ! 
+
+
+
+bug 记录：
+
+添加联系人中文名称全是问号
+getClientSigningEntity.do接口返回值中第一项的选中是中文
+添加RevenueAllocation时，需要在数据库配置总监id
